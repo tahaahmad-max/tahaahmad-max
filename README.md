@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Taha Ahmad 👋
 
-<!--
-**tahaahmad-max/tahaahmad-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+Software Engineering student passionate about AI, Machine Learning, Data Science, and Full-Stack Development. I enjoy building practical projects, learning new technologies, and solving real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌱 Currently learning AI, ML, and modern web technologies
+* 💻 Building web applications, AI projects, and database systems
+* 🚀 Interested in freelancing, startups, and software development
+* 🤝 Open to collaboration on innovative projects
+
+## 🛠️ Tech Stack
+
+* Python
+* JavaScript
+* React
+* Node.js
+* SQL
+* Git & GitHub
+
+## 📂 Projects
+
+### AI Chatbot
+
+A chatbot built using Python and AI technologies.
+
+### NexTalk
+
+A real-time web chat application.
+
+## 🌐 Connect With Me
+
+* LinkedIn: linkedin.com/in/taha-ahmad-0a833337a
+* Email: [tahaahmadofficial60@gmail.com](mailto:tahaahmadofficial60@gmail.com)
