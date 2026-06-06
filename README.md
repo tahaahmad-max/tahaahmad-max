@@ -35,6 +35,7 @@ A real-time web chat application.
 [![Medium](https://img.shields.io/badge/Medium-Read%20My%20Articles-12100E?style=for-the-badge\&logo=medium\&logoColor=white)](https://medium.com/@tahaahmadofficial60)
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:tahaahmadofficial60@gmail.com)
+📧 **Email:** [tahaahmadofficial60@gmail.com](mailto:tahaahmadofficial60@gmail.com)
 
 
 ## 🛠️ Tech Stack
