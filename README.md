@@ -30,8 +30,12 @@ A real-time web chat application.
 
 ## 🌐 Connect With Me
 
-* LinkedIn: linkedin.com/in/taha-ahmad-0a833337a
-* Email: [tahaahmadofficial60@gmail.com](mailto:tahaahmadofficial60@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/taha-ahmad-0a833337a/)
+
+[![Medium](https://img.shields.io/badge/Medium-Read%20My%20Articles-12100E?style=for-the-badge\&logo=medium\&logoColor=white)](https://medium.com/@tahaahmadofficial60)
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:tahaahmadofficial60@gmail.com)
+
 
 ## 🛠️ Tech Stack
 
